@@ -1,5 +1,5 @@
 {
-    "name": "isTianXin/laravel-sensitive",
+    "name": "istianxin/laravel-sensitive",
     "description": "敏感词检查及过滤扩展包，采用 DFA 算法；可配置使用缓存，减少运行时 IO 占用；支持任意框架",
     "type": "library",
     "require": {
